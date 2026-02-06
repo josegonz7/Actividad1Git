@@ -5,6 +5,6 @@ public class Calculadora {
 	 return a + b;
 	 }
 	 public int restar(int a, int b) {
-	 return a + b;
+	 return a - b;
 	 }
 }
