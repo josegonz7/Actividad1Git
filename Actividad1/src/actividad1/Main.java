@@ -14,6 +14,6 @@ public class Main {
 		// === BLOQUE A (solo Alumno A) ===
 
 		// === BLOQUE B (solo Alumno B) === 
-		System.out.println("Multiplicar: " + calc.multiplicar(a, b));
+		System.out.println("Multiplica: " + calc.multiplicar(a, b));
 	}
 }
