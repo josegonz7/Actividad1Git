@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("Resta: " + calc.restar(a, b));
 		// === BLOQUE A (solo Alumno A) ===
 		Saludo s = new Saludo();
-		System.out.println(s.saludar("DAW"));
+		System.out.println(s.saludar("DAW1"));
  
 		// === BLOQUE B (solo Alumno B) ===
 	}
