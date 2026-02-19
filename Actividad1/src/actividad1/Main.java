@@ -15,4 +15,3 @@ public class Main {
 		// === BLOQUE B (solo Alumno B) ===
 	}
 }
-
