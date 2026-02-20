@@ -13,5 +13,6 @@ public class Main {
 		System.out.println(s.saludar("DAW2"));
  
 		// === BLOQUE B (solo Alumno B) ===
+		System.out.println("Multiplica: " + calc.multiplicar(a, b)); 
 	}
 }
